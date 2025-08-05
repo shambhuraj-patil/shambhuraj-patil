@@ -15,23 +15,24 @@ Building real-world ML apps & mastering core programming by doing.
 
 ## 🔥 Featured Projects
 
-### 🚨 [Fraud Detection App](https://github.com/shambhuraj-patil/Fraud-Detection-App)
+### 🚨 [Fraud Detection App](https://github.com/shambhuraj-patil/Fraud-Detection-App)  
 An interactive Streamlit app to detect fraudulent transactions using Random Forest.  
 🔹 SMOTE preprocessing, classification report, and live predictions  
 🔹 Built to learn real-world ML workflows & UI integration
 
-### 📚 [Python Assignments](https://github.com/shambhuraj-patil/Python-Assignments)
-Hands-on Python practice covering loops, functions, recursion, OOP, and file handling  
-✅ Strong base in core programming
+### 🧾 [Periodic Process Logger](https://github.com/shambhuraj-patil/Periodic-Process-Logger)  
+A Python script that monitors running system processes and emails the log file at regular intervals using Gmail SMTP.  
+🔹 Uses scheduling and system commands to automate tracking  
+🔹 Demonstrates file handling, time-based logging, and email integration
 
-### 📊 [ML Case Studies](https://github.com/shambhuraj-patil/ML-Case-Studies)
-Exploring supervised learning, preprocessing, model evaluation, and visualization  
+### 📊 [ML Case Studies](https://github.com/shambhuraj-patil/ML-Case-Studies)  
+Exploring supervised and unsupervised learning, preprocessing, model evaluation, and visualization  
 📂 Real datasets. 📈 Real insights. 🧠 Real learning.
 
 ---
 
 ## 🎯 What I'm Focusing on Now
-- 🚀 Improving my ML projects with multiple models & performance comparisons  
+- 🚀 Improving my ML projects with supervised and unsupervised learning techniques 
 - 🌐 Hosting apps using Streamlit Cloud & GitHub Pages  
 - 📈 Learning to communicate ML results visually and clearly  
 - 🤝 Open to collaboration and contributing to open source
