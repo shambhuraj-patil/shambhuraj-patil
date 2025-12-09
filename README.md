@@ -1,41 +1,60 @@
-# Hi, I'm Shambhuraj Patil
+# Hi, I'm Shambhuraj Patil 👋
 
-Python and Machine Learning engineer focused on building real, deployable applications. I enjoy converting ideas into functional systems with clean code, reliable data preprocessing, and intuitive interfaces.
+Python Developer & Machine Learning Engineer focused on building **end-to-end ML pipelines, scalable Python systems, and deployable data applications**.  
+I enjoy designing modular architectures, performing structured data preprocessing, and turning models into real, usable tools through clean code and interactive dashboards.
 
-## Skills
-- **Languages:** Python, SQL
-- **Libraries:** NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, Streamlit
-- **Tools:** Git, GitHub, VS Code, Jupyter, Docker (basic), Linux (basic)
-- **Focus Areas:** ML pipelines, NLP, model deployment, data-driven applications
+---
 
-## Projects
+## ⚙️ Skills
 
-### Fraud Detection System
-Real-time fraud classification system using Random Forest, SMOTE, and model validation techniques.  
-- Streamlit UI for prediction and metrics  
-- ~88% accuracy on imbalanced dataset  
-**Code:** https://github.com/shambhuraj-patil/Fraud-Detection-App  
-**Live Demo:** https://fraud-analyzer.streamlit.app
+- **Programming:** Python (OOP), SQL  
+- **Machine Learning:** Classification, Regression, Feature Engineering, SMOTE, PCA, Model Evaluation, Hyperparameter Tuning  
+- **NLP:** TF-IDF, Lemmatization, Tokenization, Cosine Similarity  
+- **Libraries & Tools:** Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Streamlit, Flask (Basic)  
+- **DevOps / Tools:** Git, GitHub, Docker (Basic), VS Code, JupyterLab, Linux (Basic)  
+- **Core Strengths:** Modular architecture, EDA, debugging, optimization, pipeline design, version-control workflows  
 
-### AI Resume Screening System
-NLP-based resume-to-job-match scoring using TF-IDF and cosine similarity.  
-- Skill extraction and match visualization  
-- Interactive Streamlit dashboard  
-**Code:** https://github.com/shambhuraj-patil/AI-Resume-Screening  
-**Live Demo:** https://ai-jobfit-analyzer.streamlit.app
+---
 
-### Additional Work
-- System process monitor with email alerts
-- Customer segmentation using K-Means + PCA
-- Predictive models: Titanic, diabetes detection, wine classification
+## 🚀 Projects
 
-## Learning & Interests
-- ML and NLP system design
-- Streamlit and Flask deployment workflows
-- Real-world data preprocessing and evaluation
+### 🛡️ Fraud Detection System  
+End-to-end fraud classification pipeline with SMOTE, feature engineering, and hyperparameter tuning.  
+- Achieved **88% accuracy** on an imbalanced dataset  
+- Built with modular, reusable ML architecture  
+- Deployed on Streamlit with real-time scoring & insights  
+**Code:** [github.com/shambhuraj-patil/Fraud-Detection-App](https://github.com/shambhuraj-patil/Fraud-Detection-App)  
+**Live Demo:** https://fraud-analyzer.streamlit.app  
 
-## Contact
-- Email: shambhurajpatil27@gmail.com
-- LinkedIn: https://www.linkedin.com/in/shambhurajpatil
+---
 
-> Always learning, always building — focused on delivering reliable data applications.
+### 📄 AI Resume Screening Engine  
+NLP system that matches resumes to job descriptions using TF-IDF + cosine similarity.  
+- Automated skill extraction & role-fit scoring  
+- Candidate ranking + match visualization  
+- Deployed as an interactive Streamlit dashboard  
+**Code:** [github.com/shambhuraj-patil/AI-Resume-Screening](https://github.com/shambhuraj-patil/AI-Resume-Screening)  
+**Live Demo:** https://ai-jobfit-analyzer.streamlit.app  
+
+---
+
+### 📦 Other Work  
+- System monitoring tool with automated process alerts  
+- Customer segmentation using K-Means + PCA  
+- Predictive ML models: Titanic, diabetes, wine quality (structured EDA + feature engineering workflows)
+
+---
+
+## 📚 Interests  
+ML system design, NLP workflows, deployment pipelines, scalable Python apps, and data engineering fundamentals.
+
+---
+
+## 📬 Connect With Me  
+- **Email:** [shambhurajpatil27@gmail.com](mailto:shambhurajpatil27@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/shambhurajpatil](https://www.linkedin.com/in/shambhurajpatil)  
+- **GitHub:** [github.com/shambhuraj-patil](https://github.com/shambhuraj-patil)  
+
+---
+
+> Always building — focused on creating reliable, practical, and scalable ML solutions.
